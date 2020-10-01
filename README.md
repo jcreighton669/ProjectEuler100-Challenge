@@ -6,9 +6,9 @@ I am going to be using Java and Python as the coding languages for these challen
 
 ### Challenges Completed
 
-**[001](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/001:%20Multiples%20Of%20Three%20and%20Five)**: Multiples of Three and Five
+**[001](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/001:%20Multiples%20Of%20Three%20and%20Five)**: Multiples of Three and Five - Find the sum of all multiples of 3 or 5 below a given number provided by the user.
 
-**[002](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/002:%20FibonacciNumbers)**: Fibonacci Numbers
+**[002](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/002:%20FibonacciNumbers)**: Fibonacci Numbers -
 
 **[003](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/003:%20Largest%20Prime)**: Largest Prime
 
