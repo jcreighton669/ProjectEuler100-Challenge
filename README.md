@@ -32,8 +32,8 @@ I am going to be using Java and Python as the coding languages for these challen
 
 **[014](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/014:%20Longest%20Collatz%20Sequence)**: Longest Collatz Sequence - Using the equations for even and odd (n=n/2 and n=3n+1, respectively) to counting down from an entered number reaching 1.
 
-**[016](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/016:%20Power%20Digits)**: Power Digits
+**[016](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/016:%20Power%20Digits)**: Power Digits - Raise 2 to an entered integer and summing the individual digits that make up the final product.
 
-**[020](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/020:%20Factorial%20digit%20sum)**: Factorial Digit Sum
+**[020](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/020:%20Factorial%20digit%20sum)**: Factorial Digit Sum - Find the factorial of an entered number then sum the individual digits that make up the factorial result.
 
-**[022](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/022:%20Names%20scores)**: Names Scores
+**[022](https://github.com/jcreighton669/ProjectEuler100-Challenge/tree/master/022:%20Names%20scores)**: Names Scores - Use a name and take each character and its related value. Add each character value and find the sum.
