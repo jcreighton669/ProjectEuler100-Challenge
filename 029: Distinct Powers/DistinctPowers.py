@@ -20,6 +20,7 @@ for a in range(2, 101, 1):
             distinctPowers.append(a**b)
 
 distinctPowers = sorted(distinctPowers)
+print(len(distinctPowers))
 
 file = open("number.txt", "w")
 
